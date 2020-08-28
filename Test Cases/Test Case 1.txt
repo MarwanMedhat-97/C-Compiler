@@ -1,0 +1,23 @@
+int x=3;
+float f;
+string Name="Marwan";
+const string s = Name;
+char m;
+x++;
+print(x);
+int y=0;
+int z=5;
+y=x+z;
+print(y);
+while(y<=100)
+{
+	if (x==7)
+	{
+		print(z);
+	}
+	else{
+		print(y);
+	}
+	y++;
+}
+

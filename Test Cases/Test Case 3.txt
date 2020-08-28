@@ -1,0 +1,6 @@
+int x=2;
+char s='l';
+print(s);
+x++;
+print(x);
+x=s;
